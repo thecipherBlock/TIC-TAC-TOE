@@ -1,4 +1,4 @@
 # TIC-TAC-TOE
 
 
-Run this game from : https://its-VSP.github.io/TIC-TAC-TOE/
+Play this game at : https://thecipherblock.github.io/TIC-TAC-TOE/
